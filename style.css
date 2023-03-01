@@ -18,6 +18,9 @@ body
     align-items: centre;
     min-height: 100vh;
     background: linear-gradient(#950909,#0d1423);
+    background-image: url("Stranger-Things.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 110%;
 }
 
 .card
